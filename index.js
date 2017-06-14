@@ -1,6 +1,6 @@
 'use strict';
 
-const config = require('./config.json')
+const config = require('./config.js')
 const tg = require('node-telegram-bot-api')
 const key = require('specialkey-emulator')
 
