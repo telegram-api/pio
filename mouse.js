@@ -1,5 +1,5 @@
 const tg = require('node-telegram-bot-api')
-const config = require('./config.json')
+const config = require('./config.js')
 const child_process = require('child_process')
 const robot = require('robotjs')
 
