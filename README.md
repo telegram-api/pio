@@ -2,7 +2,6 @@
 
 Control your Mac remotely.
 
-![tg-remote](http://i.imgur.com/eL7QWq9.gif)
 
 ### Instructions
 
